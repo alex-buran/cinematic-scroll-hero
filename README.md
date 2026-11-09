@@ -32,12 +32,6 @@ and cursor movement.
 - Google Fonts (Bricolage Grotesque, Inter)
 - Responsive layout; if the Three.js CDN fails, the preloader still clears
 
-## Related
-
-[Parallax Cut Scroll Hero](https://github.com/alex-buran/parallax-cut-scroll-hero)
-uses the same raymarched approach with a different camera, contrast curve,
-and parallax layer.
-
 ## Design & build
 
 Designed and built by **[Softburn.tech](https://softburn.tech)**.
